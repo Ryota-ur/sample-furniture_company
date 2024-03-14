@@ -346,7 +346,7 @@ mainVisual
 }
 
 .mainVisual__background {
-	background: url(../public/assets/img/img_main_visual.png) no-repeat center center/cover;
+	background: url(../img/img_main_visual.png) no-repeat center center/cover;
 	height: 480px;
 }
 
