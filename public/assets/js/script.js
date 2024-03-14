@@ -18,10 +18,6 @@ modalBackgrounds.forEach(modal => {
       }
     });
   });
-
-jQuery(function() {
-	jQuery('.introduction__use--body').matchHeight();
-});
 jQuery('.faq__box--q').on('click',function(){
 jQuery(this).next().slideToggle();
 jQuery(this).children('.faq__box--icon').toggleClass('is-open');
