@@ -577,7 +577,7 @@ register
 }
 
 .register__btn--link::after {
-	background: url(../public/assets/img/akar-icons_arrow-right.png) no-repeat center center/contain;
+	background: url(../img/akar-icons_arrow-right.png) no-repeat center center/contain;
 	content: "";
 	height: 24px;
 	position: absolute;
@@ -663,7 +663,7 @@ voice
 }
 
 .voice__background {
-	background: linear-gradient(180deg, transparent 0 70%, #FFF 80%), url(../public/assets/img/img_background_copy.png) no-repeat top center/cover;
+	background: linear-gradient(180deg, transparent 0 70%, #FFF 80%), url(../img/img_background_copy.png) no-repeat top center/cover;
 	height: 250px;
 }
 
@@ -680,7 +680,7 @@ voice
 }
 
 .voice__titleWrap::before {
-	background: url(../public/assets/img/leaf_left.png) no-repeat center center/contain;
+	background: url(../img/leaf_left.png) no-repeat center center/contain;
 	content: "";
 	height: 203px;
 	left: -158px;
@@ -691,7 +691,7 @@ voice
 }
 
 .voice__titleWrap::after {
-	background: url(../public/assets/img/leaf_right.png) no-repeat center center/contain;
+	background: url(../img/leaf_right.png) no-repeat center center/contain;
 	content: "";
 	height: 203px;
 	position: absolute;
@@ -825,7 +825,7 @@ solution
 ***************************/
 
 .solution {
-	background: url(../public/assets/img/img_background_solution.png) no-repeat top center/cover;
+	background: url(../img/img_background_solution.png) no-repeat top center/cover;
 }
 
 .solution__inner {
@@ -854,7 +854,7 @@ solution
 }
 
 .solution__row::before {
-	background: url(../public/assets/img/bi_check-circle.png) no-repeat center center/contain;
+	background: url(../img/bi_check-circle.png) no-repeat center center/contain;
 	content: "";
 	height: 32px;
 	left: 50px;
@@ -887,7 +887,7 @@ solution
 }
 
 .solution__rowWrap::before {
-	background: url(../public/assets/img/bi_check-circle.png) no-repeat center center/contain;
+	background: url(../img/bi_check-circle.png) no-repeat center center/contain;
 	content: "";
 	height: 32px;
 	left: 50px;
@@ -1360,7 +1360,7 @@ features
 ***************************/
 
 .features {
-	background: url(../public/assets/img/img_background-feature.png) no-repeat top center/cover;
+	background: url(../img/img_background-feature.png) no-repeat top center/cover;
 }
 
 .feature__inner {
@@ -1624,7 +1624,7 @@ faq
 }
 
 .faq__btn--link::after {
-	background: url(../public/assets/img/bx_bxs-right-arrow.png) no-repeat center center/contain;
+	background: url(../img/bx_bxs-right-arrow.png) no-repeat center center/contain;
 	content: "";
 	height: 18px;
 	position: absolute;
@@ -2194,7 +2194,7 @@ footer
 }
 
 .mainVisual__background {
-	background: url(../public/assets/img/img_main_visual-sp.png) no-repeat center center/cover;
+	background: url(../img/img_main_visual-sp.png) no-repeat center center/cover;
 	height: 742px;
 }
 
